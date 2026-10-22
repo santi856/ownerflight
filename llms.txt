@@ -1,11 +1,11 @@
 # OwnerFlight
 
 
-OwnerFlight books calls with home care agency owners for businesses that sell into home care — done-for-you outreach backed by a scored database of 2,716 licensed agencies across 22 live states (Pilot Flight $400 one-time, DFY $800/mo, DIY database $299/mo for any 3 states, All-Access $499/mo for every live state, DFY annual prepaid $8,000/year).
+OwnerFlight books calls with home care agency owners for businesses that sell into home care — done-for-you outreach backed by a scored database of 2,860 agencies across 24 live states (Pilot Flight $400 one-time, DFY $800/mo, DIY database $299/mo for any 3 states, All-Access $499/mo for every live state, DFY annual prepaid $8,000/year).
 
 
 ## Main pages
-- [Real data preview](https://santi856.github.io/ownerflight/sample.html): 25 actual business rows (agency, city, state, tier) from the public four-field map. Zero current HOT-tier records.
+- [Real data preview](https://santi856.github.io/ownerflight/sample.html): 25 actual business rows (agency, city, state, tier) from the live 2,860-record, 24-state file. Zero current HOT-tier records.
 - [OwnerFlight](https://santi856.github.io/ownerflight/): done-for-you outreach + the home care agency database
 - [Home care agency leads](https://santi856.github.io/ownerflight/home-care-agency-leads.html): the database for teams that run their own outreach
 - [Signals weekly research](https://santi856.github.io/ownerflight/signals.html): $199/month research brief for businesses selling into home care
@@ -38,6 +38,9 @@ OwnerFlight books calls with home care agency owners for businesses that sell in
 - [Wisconsin home care agency database](https://santi856.github.io/ownerflight/wisconsin.html)
 - [Minnesota home care agency database](https://santi856.github.io/ownerflight/minnesota.html)
 - [Colorado home care agency database](https://santi856.github.io/ownerflight/colorado.html)
+- [Alabama home care agency database](https://santi856.github.io/ownerflight/alabama.html)
+- [Alaska home care agency database](https://santi856.github.io/ownerflight/alaska.html)
+- [Hawaii home care agency database](https://santi856.github.io/ownerflight/hawaii.html)
 
 
 ## Legal
