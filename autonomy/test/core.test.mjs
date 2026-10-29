@@ -6,7 +6,7 @@ test('zero spend and unmoving offer model',()=>{
   assert.equal(LIMITS.autoColdEmails,0);
   assert.equal(OFFERS.diy.states,3);
   assert.equal(OFFERS.allAccess.states,21);
-  assert.equal(OFFERS.annual.cents,800000);
+  assert.equal(OFFERS.annual.cents,1500000);
 });
 test('inbound policies prioritize opt-outs and disputes',()=>{
   assert.equal(classifyInbound('stop emailing me please'),'opt_out');
