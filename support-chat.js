@@ -9,7 +9,7 @@
 
   var PHONE_DISPLAY = '(838) 304-3003';
   var EMAIL = 'jesusasantiago413@gmail.com';
-  var DFY_LINK = 'https://buy.stripe.com/28EaEY0GGehC2c1bUT9AA02';
+  var DFY_LINK = 'https://buy.stripe.com/fZudRa6103CY9Et1gf9AA0t';
   var DIY_LINK = 'https://buy.stripe.com/14AbJ29dc2yU4k96Az9AA01';
   var SAMPLE_MAILTO = 'mailto:jesusasantiago413@gmail.com?subject=Send%20me%20the%20free%20Florida%20sample';
   var PARTNER_MAILTO = 'mailto:jesusasantiago413@gmail.com?subject=Partnership%20with%20HomeCare%20Intel';
@@ -141,10 +141,10 @@
     price: function () {
       return {
         text: 'Two ways in.\n' +
-          'Done-For-You is $800/mo: we email the owners in your market, work every reply, and book calls on your calendar. The full database is included, and zero positive replies in month one means month two is free.\n' +
+          'Done-For-You is $1,500/mo: we email the owners in your market, work every reply, and book calls on your calendar. The full database is included, and zero positive replies in month one means month two is free.\n' +
           'Do-It-Yourself is $299/mo: the scored database for any 3 states you choose \u2014 owners, direct phones, licenses, scores. Add a state anytime for $75/mo, or take every live state with All-Access at $499/mo \u2014 use the All-Access checkout on the pricing page. Verified owner emails are DFY-only.\n' +
           'Both are month-to-month, cancel anytime, and the rate you start at never goes up.',
-        buttons: [btn('Start DFY \u2014 $800/mo', DFY_LINK), btn('Get the database \u2014 $299/mo', DIY_LINK, true)]
+        buttons: [btn('Start DFY \u2014 $1,500/mo', DFY_LINK), btn('Get the database \u2014 $299/mo', DIY_LINK, true)]
       };
     },
     allaccess: function () {
@@ -181,7 +181,7 @@
       return {
         text: 'Straightforward: if month one of Done-For-You produces zero positive replies, month two is free.\n' +
           'And every reply is handled and reported according to our agreed campaign schedule \u2014 good or bad, you see everything we see.',
-        buttons: [btn('Start DFY \u2014 $800/mo', DFY_LINK)]
+        buttons: [btn('Start DFY \u2014 $1,500/mo', DFY_LINK)]
       };
     },
     inside: function () {
@@ -240,7 +240,7 @@
   };
 
   function stateAnswer(state) {
-    var buttons = [btn('See the ' + state.name + ' data', state.page), btn('Start DFY \u2014 $800/mo', DFY_LINK, true)];
+    var buttons = [btn('See the ' + state.name + ' data', state.page), btn('Start DFY \u2014 $1,500/mo', DFY_LINK, true)];
     if (state.name === 'Florida') {
       buttons.push(btn('Email me the free sample', SAMPLE_MAILTO, true));
     }
