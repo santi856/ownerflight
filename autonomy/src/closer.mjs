@@ -22,10 +22,10 @@ export function chooseOffer(message='', context={}) {
 }
 export function planDescription(plan) {
  const labels={
- pilot:'one Pilot Flight at $400 once',diy:'DIY coverage for any three states at $299/month',
+ pilot:'one Pilot Flight at $800 once',diy:'DIY coverage for any three states at $299/month',
  allAccess:'All-Access coverage for the current 21 states at $499/month',
- dfy:'done-for-you agency-owner outreach at $800/month',
- annual:'done-for-you outreach at $8,000/year paid upfront, renewing annually',
+ dfy:'done-for-you agency-owner outreach at $1,500/month',
+ annual:'done-for-you outreach at $15,000/year paid upfront, renewing annually',
  signals:'the weekly Signals research brief at $199/month'
  };
  return labels[plan]||null;

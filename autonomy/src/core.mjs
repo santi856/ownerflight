@@ -1,10 +1,10 @@
 // Non-billable automation policies. The public repo must never contain customer records.
 export const OFFERS = Object.freeze({
-  pilot: {cents:40000, recurring:null, states:null, checkout:'https://buy.stripe.com/00wfZicpo0qM4k94sr9AA06'},
+  pilot: {cents:80000, recurring:null, states:null, checkout:'https://buy.stripe.com/14A14o3SS7Te8Ap3on9AA0s'},
   diy: {cents:29900, recurring:'month', states:3, checkout:'https://buy.stripe.com/14AbJ29dc2yU4k96Az9AA01'},
   allAccess: {cents:49900, recurring:'month', states:21, checkout:'https://buy.stripe.com/7sYeVe3SSb5qeYN6Az9AA08'},
-  dfy: {cents:80000, recurring:'month', states:null, checkout:'https://buy.stripe.com/28EaEY0GGehC2c1bUT9AA02'},
-  annual: {cents:800000, recurring:'year', states:null, checkout:'https://buy.stripe.com/14A4gAblk6Pag2R5wv9AA05'},
+  dfy: {cents:150000, recurring:'month', states:null, checkout:'https://buy.stripe.com/fZudRa6103CY9Et1gf9AA0t'},
+  annual: {cents:1500000, recurring:'year', states:null, checkout:'https://buy.stripe.com/cNi14o2OOflGdUJ7ED9AA0u'},
   signals: {cents:19900, recurring:'month', states:null, checkout:'https://buy.stripe.com/aFa5kE2OO7TecQF8IH9AA07'}
 });
 export const LIMITS = Object.freeze({
@@ -13,6 +13,10 @@ export const LIMITS = Object.freeze({
   autoRefunds:false, autoPurchases:false
 });
 export const PAYMENT_LINK_PLANS = Object.freeze({
+  plink_1UVtRYLTIwtoxZQI592wwe8f:'pilot',
+  plink_1UVtRjLTIwtoxZQIEhSlfeFs:'dfy',
+  plink_1UVtRkLTIwtoxZQIjJ9EqhRV:'annual',
+  plink_1UVtRlLTIwtoxZQIkFJEUsDw:'dfyPlus',
   plink_1UQ5SjLTIwtoxZQIfCQdk5VE:'pilot',
   plink_1UQ5SqLTIwtoxZQIlmQVdYKp:'signals',
   plink_1UQ5TGLTIwtoxZQIwwPspQW3:'allAccess',
