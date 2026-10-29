@@ -8,9 +8,9 @@ This public GitHub Pages repository is a static marketing site. Stripe-hosted Pa
 1. Review Stripe **live mode** Checkout / Payments, not the test sandbox. Match an actual paid charge or paid subscription and `payment_status=paid` (for a Checkout Session if available). A clicked link, open session or expired session is **not** a sale.
 2. Verify the customer's checkout email, product, gross amount and billing interval on Stripe. Confirm any fee or tax separately before representing it as earned revenue.
 3. Confirm which product was purchased:
-   - **Pilot**: $400 one-time; one scoped agency-owner outreach flight. Confirm region, audience, contact availability, approved copy and calendar. Second flight free if no positive replies; refundable after both unsuccessful flights under Terms.
-   - **DFY monthly**: $800/month recurring. Confirm prospect inventory, target market, vendor offer, approved outreach and calendar before launch.
-   - **DFY annual**: $8,000/year recurring prepaid. Confirm the same campaign scope, exact annual renewal, and the prepaid first-month guarantee ($666.67 refund if first fully launched month has zero positive replies).
+   - **Pilot**: $800 one-time; one scoped agency-owner outreach flight. Confirm region, audience, contact availability, approved copy and calendar. Second flight free if no positive replies; refundable after both unsuccessful flights under Terms.
+   - **DFY monthly**: $1,500/month recurring. Confirm prospect inventory, target market, vendor offer, approved outreach and calendar before launch.
+   - **DFY annual**: $15,000/year recurring prepaid. Confirm the same campaign scope, exact annual renewal, and the prepaid first-month guarantee ($1,250 refund if first fully launched month has zero positive replies).
    - **DIY**: $299/month recurring, **three named states only**. Confirm state selections; email only those licensed paid files after verification.
    - **All-Access**: $499/month recurring, currently 21 supported states.
    - **Signals**: $199/month recurring, weekly research brief.
