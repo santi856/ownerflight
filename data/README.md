@@ -2,11 +2,11 @@
 
 A free slice of the HomeCare Intel database: every licensed home care agency we've verified and scored across 21 US states — Florida, Texas, California, New York, Pennsylvania, Ohio, Washington, Illinois, Arizona, North Carolina, Georgia, Massachusetts, Virginia, New Jersey, Michigan, Tennessee, Missouri, Maryland, Wisconsin, Minnesota, Colorado.
 
-**Columns:** agency name, city, state, and a priority tier (HOT / WARM / NURTURE / COLD) scored from public signals — online-booking presence, social presence, review profile, license recency, owner identification. Refreshed weekly.
+**Columns:** agency name, city, state, and a priority tier (HOT / WARM / NURTURE / COLD) scored from public signals — online-booking presence, social presence, review profile, license recency, owner identification. Refreshed monthly.
 
 **What this file deliberately doesn't have:** phone numbers, owner names, and the verified email addresses. Those live in the full database.
 
-**Want the full row, or a free 25-row sample of your market?** Hit the sample button at https://santi856.github.io/homecare-intel/ — it emails us, the sample lands in your inbox, and a human follows up. The done-for-you version ($800/mo — we run the outreach and book the calls) is on the same page.
+**Want the full row, or a free 25-row sample of your market?** Hit the sample button at https://santi856.github.io/homecare-intel/ — it emails us, the sample lands in your inbox, and a human follows up. The done-for-you version ($1,500/mo — we run the outreach and book the calls) is on the same page.
 
 Free to use with attribution to HomeCare Intel.
 
