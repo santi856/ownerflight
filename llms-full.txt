@@ -1,520 +1,112 @@
 # OwnerFlight — Full Text
 
-OwnerFlight books calls with home care agency owners for businesses that sell into home care — done-for-you outreach backed by a scored database of 2,860 agencies across 24 live states (The Deal $400 one-time, DFY $800/mo, DIY database $299/mo for any 3 states, All-Access $499/mo for every live state, DFY annual prepaid $8,000/year).
+OwnerFlight books calls with home care agency owners for businesses that sell into home care — done-for-you outreach backed by a scored database of 4,572 agencies across 24 live states (The Deal $800 one-time, DFY $1,500/mo, DIY database $299/mo for any 3 states, All-Access $499/mo for every live state, DFY annual prepaid $15,000/year).
 Site: https://santi856.github.io/ownerflight/
 Contact: Jesse Santiago (founder) — jesusasantiago413@gmail.com — +1-838-304-3003
 
 
 ## Homepage — https://santi856.github.io/ownerflight/
 
-OwnerFlight — We book calls with home care agency owners
-OwnerFlight
-Pricing
-Signals
-Real data preview
-For agency owners
-FAQ
-Start the $400 Deal
-Done-for-you outreach · 24 states live
-We book calls with home care agency owners.
-For businesses that sell into home care: we email agency owners in your market, work every reply, and book calls on your calendar. Underneath it all, a scored database of 2,860 agencies in 24 states.
-Start DFY — $800/mo
-DFY Annual — $8,000/yr
-See real data rows
-Monthly DFY: zero positive replies in month one means a complimentary second service month.
-Annual prepaid buyers carry the same zero-reply protection (annual prepay already includes two months free); see Terms.
-Start with one $400 Deal →
-· Own a home care agency?
-Explore client-growth inquiries instead
-.
-US_ownerflight
+How It Works Pricing FAQ Partners Secure Your Spot
+Done-For-You Outreach
+We find the owners.
+We book the calls.
+You just sell.
+Companies want to sell to home care agency owners. The owners are hard to reach. We reach them — on WhatsApp, Facebook, Instagram, TikTok, LinkedIn, email, and text — work every reply, and book the interested ones on your calendar.
+Secure The Deal — $800
+First 10 clients only. When they're gone, they're gone.
+4,572 agencies tracked
 24 states live
-2,860
-agencies tracked nationwide
-24
-states live now
-Weekly
-Hot 10 trigger brief
-full database refresh
-Agency
-City
-Score
-Why now
-BrightStar Care Columbus NW / E
-Columbus, OH
-60
-3.3★ across just 12 reviews · no online booking · no Instagram
-Home Instead
-Harrisburg, PA
-55
-3.9★ across just 11 reviews · no online booking · no Instagram
-Caring Senior Service of San Antonio
-San Antonio, TX
-50
-4.2★ (59 reviews) · no online booking · no Instagram · owner named
-Miami, FL
-40
-4.1★ across just 19 reviews · no Instagram presence
-Founding Year — This Weekend Only
-A full year of Done-For-You outreach for $1,500.
-Paid once, upfront (normally $8,000/yr). We email the home care agency owners in your market, work every reply, and book the calls. Zero positive replies in month one? Full refund. Founding terms close Monday night.
-Claim a Founding Year — $1,500
-The market, measured
-The agencies are good. Their visibility isn't.
-Every figure below is computed from the live OwnerFlight database — all 2,860 agency records across the 24 live states, October 2026. The denominator is printed next to every number: if a signal wasn't verified on a record, that record isn't counted.
-home care agencies tracked across 24 live states
-Florida 104 · Texas 126 · California 114 · New York 114 · Pennsylvania 111 · Ohio 122 · Washington 123 · Illinois 111 · Arizona 107 · North Carolina 120 · Georgia 225 · Massachusetts 123 · Virginia 129 · New Jersey 121 · Michigan 118 · Tennessee 120 · Missouri 122 · Maryland 151 · Wisconsin 116 · Minnesota 106 · Colorado 116 · Alabama 120 · Alaska 78 · Hawaii 63.
-71 / 1,179
-agencies with a verified booking status offer any online booking
-The other 1,108 verified agencies take no bookings online at all. The remaining 1,537 records are excluded — booking status not yet verified, never estimated.
-1,768 / 1,808
-checked agencies have no findable Instagram presence
-Social presence checked on 1,808 agencies across 19 states; only 40 publish a findable handle. California and Massachusetts have not been checked yet and are excluded from this figure entirely.
-11
-median Google reviews per rated agency
-Computed over the 1,125 agencies with a published Google review count. Well-reviewed, barely visible — that gap is what our clients sell into.
-The problem
-Prospecting should not begin with a scavenger hunt.
-Your team’s best hours belong in outreach—not in twelve open tabs trying to verify who runs an agency.
-01 / SEARCH
-Maps is not a database
-Manual searches surface duplicates, franchises, and incomplete profiles. Every city becomes a separate research project.
-02 / VERIFY
-Licenses take time
-Matching businesses to state license records and decision-makers turns a simple list into hours of clerical work.
-03 / DECAY
-Static lists go stale
-Administrators change. Agencies close. New operators launch. Within months, yesterday’s research becomes today’s bounce list.
-What you get
-A ready-to-work market, not a raw directory export.
-Each row combines license data, decision-maker context, visible demand-generation signals, and a ranked reason to reach out.
-verified agency records across 24 live states. One signed client pays for a year of this.
-The file's job is to get you that client — every agency in your market, the owner's name, and a plain note on why they're worth a call this week. Delivered as a clean CSV that drops into Excel, Sheets, or your CRM — your states on signup, Hot 10 every week, refreshed weekly. New states land on All-Access at no extra cost as they are verified and added — and on Done-For-You, this database is the weapon we work for you.
-01
-Agency name
-Identity
-02
-Location
-03
-Street address
-04
-Phone
-Contact
-05
-Website
-Digital
-06
-License number
-Verification
-07
-Owner / administrator
-Decision-maker
-08
-Google rating + review count
-Reputation
-09
-Instagram handle + activity
-Social
-10
-Online-booking signal
-Opportunity
-Priority score
-0–100
-12
-Tier — HOT / WARM / NURTURE / COLD
-Timing
-13
-Score rationale
-One honest gap: email addresses aren't in this file. Verified owner emails live in DFY — the tier where we do the emailing for you. DIY is owners, phones, licenses and scores, built for calling.
-Live coverage
-Twenty-four states live. 2,860 agencies tracked.
-OwnerFlight expands state by state, with one clear standard: verified coverage before a market is marked live — and no market announced before its data is real. Every state below is built, scored, and spot-checked. Pick your market: we work it for you, or hand you the file.
-Live now
-Florida
-104 verified records — our first market, refreshed weekly.
-See the Florida data →
-Texas
-126 verified records — Houston, San Antonio, El Paso, Austin, Dallas.
-See the Texas data →
-California
-114 verified records — Los Angeles, San Diego, Sacramento, and 36 more cities.
-See the California data →
-New York
-114 verified records — Brooklyn, the boroughs, Long Island, and upstate.
-See the New York data →
-Pennsylvania
-111 verified records — Pittsburgh, Philadelphia, Harrisburg, and 43 more towns.
-See the Pennsylvania data →
-Ohio
-122 verified records — Columbus, Cincinnati, Toledo, Dayton.
-See the Ohio data →
-Washington
-123 verified records — Vancouver, Spokane, Seattle, Tacoma.
-See the Washington data →
-Illinois
-111 verified records — Chicago and suburbs, Springfield, Rockford, Peoria.
-See the Illinois data →
-Arizona
-107 verified records — Tucson, Phoenix, Yuma, Mesa, Scottsdale.
-See the Arizona data →
-North Carolina
-120 verified records — Charlotte, Greensboro, Wilmington, Raleigh, Asheville.
-See the North Carolina data →
-Georgia
-225 verified records — Atlanta metro, Columbus, Macon, Savannah, Augusta.
-See the Georgia data →
-Massachusetts
-123 verified records — Boston metro, Springfield, Worcester, South Coast, Cape Cod.
-See the Massachusetts data →
-Virginia
-129 verified records — Northern Virginia, Hampton Roads, Richmond, Charlottesville.
-See the Virginia data →
-New Jersey
-121 verified records — Central Jersey, South Jersey, the Shore, North Jersey.
-See the New Jersey data →
-Michigan
-118 verified records — Detroit metro, Grand Rapids, Kalamazoo, Ann Arbor, Lansing.
-See the Michigan data →
-Tennessee
-120 verified records — Nashville, Knoxville, Memphis, Chattanooga, Tri-Cities.
-See the Tennessee data →
-Missouri
-122 verified records — St. Louis, Kansas City, Springfield, Columbia, St. Charles.
-See the Missouri data →
-Maryland
-151 verified records — Baltimore, the DC suburbs, Annapolis, the Eastern Shore.
-See the Maryland data →
-Wisconsin
-116 verified records — Milwaukee, Madison, Green Bay, Racine / Kenosha, Eau Claire.
-See the Wisconsin data →
-Minnesota
-106 verified records — Minneapolis–St. Paul, Rochester, Duluth, St. Cloud.
-See the Minnesota data →
-Colorado
-116 verified records — Denver metro, Colorado Springs, Boulder, Grand Junction.
-See the Colorado data →
-Alabama
-120 verified records — our newest market, added October 2026.
-Florida was our first market — the full Florida dataset, its city pages, and the
-2026 Florida data brief
-are all still live. More states are in build now and are added only once verified; a paying DFY client's market jumps the queue. All-Access subscribers receive every new state at no extra cost; on DIY, a new state can be added anytime for $75/mo.
-Weekly Hot 10
-A call list ranked by timing.
-Every week, the Hot 10 pulls the material changes out of the master file, assigns each account a transparent 0–100 priority score, and explains why the timing matters.
-Every Monday
-BrightStar Care Columbus NW / E — Columbus, OH
-3.3★ on just 12 Google reviews · no online booking · no Instagram presence
-Reputation gap
-Home Instead — Harrisburg, PA
-3.9★ on just 11 Google reviews · no online booking · no Instagram presence
-Visibility gap
-Caring Senior Service of San Antonio — San Antonio, TX
-4.2★ across 59 reviews · no online booking · no Instagram presence · owner named
-Conversion gap
-A score you can defend
-Priority rises when timing and visible need overlap. The rationale stays attached so reps never have to guess what the number means.
-75 and up
-HOT
-50–74
-WARM
-25–49
-NURTURE
-Under 25
-COLD
-No black box: each score includes the contributing signals, last-checked date, and recommended outreach angle.
-Sample rows
-See the shape of the dataset.
-A practical preview of the fields your team can sort, score, and route into campaigns. These are real records from the live Florida file — ratings, review counts, and signals exactly as verified. Contact details live in the subscriber database — or
-start the $400 Deal
-and see it work in your market.
-Sample preview / live records
-Market
-Google
-Instagram
-Booking signal
-Allstar Home Care LLC
-Jacksonville
-★ 5.0 (36)
-Not found
-Consultation form found
-Cruz Homecare & Educational Services LLC
-Kissimmee
-★ 4.8 (20)
-None found
-Comfort Keepers
-Altamonte Springs
-★ 4.1 (7)
-Touch By An Angel Home Care Inc
-Boca Raton
-★ 5.0 (2)
-Nursing Styles
-Largo
-★ 5.0 (8)
-How you use it
-From signup to booked calls — here is the whole job.
-Choose the offer, complete Stripe checkout, then send your market and offer details using the post-purchase instructions. A person verifies the paid order and coordinates delivery; fulfillment is not currently instant or self-serve.
-01 / DONE-FOR-YOU
-Done-For-You — $800/mo
-1
-Pick your market.
-24 states live, 2,860 agencies tracked — tell us who you sell to and where.
-2
-Approve the angle.
-We draft the outreach first; nothing sends until you say go.
-3
-We email the owners and work every reply.
-Campaign replies are handled and reported in the agreed operating window.
-4
-Calls land on your calendar.
-And every week you get the report — sent / replies / booked — even in a zero week.
-Zero positive replies in month one? Month two is free.
-02 / DO-IT-YOURSELF
-Do-It-Yourself — $299/mo
-Your state files are sent after checkout and market selection are verified.
-Owners, direct phones, license numbers, scores.
-Prioritize by documented signals.
-Scoring helps order research and outreach, but is not proof of purchase intent. The public four-field file currently has no HOT-tier records.
-Every Monday: your Hot 10.
-The ten best-timed agencies in your market that week.
-Fresh files every week.
-Re-verified weekly — and your founding rate is locked for life.
-Your 3 states from day one — Hot 10 every Monday, fresh files every week.
-Get the database — $299/mo
-What lands in your inbox — DFY weekly report (example)
-Sent: 48 · Interested: 3 · Calls booked: 2
-Latest booking: Tue 2:30 PM — a call with an agency owner, on your calendar.
-What lands in your inbox — Monday Hot 10 (example)
-BrightStar Care, Columbus OH — score 60
-— 3.3 stars, no online booking. One of the ten best-timed agencies in your market this week.
-Client results
-What clients got.
-"[One-line client quote with a specific outcome]"
-[First name], [company or role] — [outcome: e.g. calls booked / replies / clients signed]
-[First name], [company or role] — [outcome]
--->
-Who it’s for
-Built for businesses that sell into home care.
-If home care agencies are your customers, this is your market map — and, on DFY, your booked calendar. One source of truth to launch territory campaigns, prioritize underserved operators, and reach the right decision-maker.
-Home care & senior care marketing specialists
-Software & EHR vendors
-Staffing platforms
-Billing & RCM firms
-Answering services & consultants
-Franchise development firms
-Not a consumer directory
-This is not for home care agencies looking to be listed, and not for generalists without a senior-care angle. It is prospecting fuel — and booked calls — for the businesses that serve home care.
-How delivery works
-Subscribe once. The market keeps moving to you.
-After payment verification, files are emailed for the selected states — any 3 states on DIY, every live state on All-Access. After that: the Hot 10 for your states every Monday, fully refreshed files every week, and new states as they are verified and added — included on All-Access, addable on DIY for $75/mo each.
-Monitor
-License, reputation, and visible digital signals are checked for change.
-Fresh changes and persistent gaps move accounts up the priority queue.
-Alert weekly
-Your brief shows the highest-priority accounts and the reason to call now.
-Refresh weekly
-The complete master CSV is re-verified, expanded, and cleaned.
-Before you subscribe.
-Where can I buy a list of home care agencies?
-OwnerFlight tracks 2,860 home care agencies across 24 live states — Florida, Texas, California, New York, Pennsylvania, Ohio, Washington, Illinois, Arizona, North Carolina, Georgia, Massachusetts, Virginia, New Jersey, Michigan, Tennessee, Missouri, Maryland, Wisconsin, Minnesota, Colorado, Alabama, Alaska, and Hawaii — built for businesses that sell into home care. Subscribe to the database for $299/month, or take Done-For-You ($800/month) and we run the outreach and book the calls for you.
-How much does OwnerFlight cost?
-Done-For-You is $800 per month, or $8,000 annually paid upfront (saving $1,600 versus monthly billing; annual subscriptions renew each year): we email the agency owners in your market, work every reply, and book calls on your calendar — if the first launched service month produces zero positive replies, monthly DFY clients get the next service month free and prepaid annual clients carry the same zero-reply protection (annual prepay already includes two months free). The DIY database is $299 per month for any 3 states you choose, cancel anytime. Extra states are $75 per month each, and All-Access — every live state — is $499 per month. Whatever rate you start at is yours for as long as you stay subscribed — it never goes up on you. The posted DFY checkout does not automatically charge a separate setup fee; any additional fee requires your approval before payment. A lower-commitment option is the Deal: $400 one time for one full outreach flight in your market — the full $400 can be credited manually toward qualifying DFY started within 14 days, and if it and a free second run both produce zero positive replies, the $400 is refunded. There is no per-record charge.
-What information is included for each agency?
-Agency name, city, street address, phone, website, state license number, owner or administrator name, Google rating and review count, Instagram handle and recent activity, online-booking signal, a 0-100 priority score, a tier (HOT, WARM, NURTURE, or COLD), and a plain-English reason for the score. Fields that cannot be verified are left blank rather than estimated.
-Who is OwnerFlight for?
-Any business that sells into home care: home care and senior care marketing specialists, software and EHR vendors, staffing platforms, billing and RCM firms, answering services, consultants, and franchise development firms. It is not a consumer directory and it is not for agencies looking to be listed.
-What does Done-For-You (DFY) include?
-We email the licensed home care agency owners in your market using the verified contacts in our database, work every reply, and book calls on your calendar. You approve the outreach angle before launch, replies are handled and reported on the agreed campaign schedule, and you receive a weekly sent / replies / booked report. Full database access for your market is included. Guarantee: monthly DFY receives a free second month if the first fully launched month generates zero positive replies; prepaid annual DFY carries the same zero-reply protection (annual prepay already includes two months free).
-How is this different from Apollo or ZoomInfo?
-Broad B2B platforms are built to cover every industry. OwnerFlight is built around one vertical and includes license context plus senior-care-specific prospecting signals — such as visible Instagram activity and online-booking gaps — that broad databases typically do not carry.
-See the full side-by-side: OwnerFlight vs Apollo and ZoomInfo →
-What format do I receive?
-A clean CSV that can be opened in Excel or Google Sheets and imported into most CRM and outreach platforms.
-How often do I receive updates?
-After we verify a completed checkout and confirm the selected markets, data files are emailed manually — any 3 states you choose on DIY, every live state on All-Access. After that you receive the Hot 10 brief for your states every Monday and fully refreshed, re-verified files every week. New states are added as they are verified: All-Access includes them at no extra cost, and on DIY you can add a state anytime for $75/mo.
-How does priority scoring work?
-Every agency gets a 0–100 priority score from our own scoring model. It weighs the signals that say an agency is ready to buy — how established it is, whether it can take an online booking, how visible it is online — and every row shows the reason for its score in plain English. Scores land in tiers: HOT, WARM, NURTURE, COLD. The recipe itself is ours; what it produces is what you see in the public preview.
-What counts as a trigger?
-Triggers include a newly issued license, a meaningful Google rating change, social activity going quiet, or a visible conversion gap such as no online booking. Each Hot 10 entry includes the change, when it was detected, and a suggested outreach angle.
-Which states are covered?
-Twenty-four states are live: Florida (104 agencies), Texas (126), California (114), New York (114), Pennsylvania (111), Ohio (122), Washington (123), Illinois (111), Arizona (107), North Carolina (120), Georgia (225), Massachusetts (123), Virginia (129), New Jersey (121), Michigan (118), Tennessee (120), Missouri (122), Maryland (151), Wisconsin (116), Minnesota (106), Colorado (116), Alabama (120), Alaska (78), and Hawaii (63) — 2,860 agencies in total. More states are in build and are added only once verified, at no extra cost.
-Can I cancel?
-Yes. Both tiers are month-to-month and you can cancel anytime. Whatever rate you start at is yours for as long as your subscription stays active — it never goes up on you.
-Done-For-You
-Or skip the list work entirely. We run the outreach.
-The database is the weapon — DFY is us firing it. We email the agency owners in your market from the verified contacts in the file, in a human voice, with your offer. You approve the angle before anything sends.
+7 channels of outreach
+Weekly refreshed owner data
+How It Works
+The whole business, in three steps.
 Pick your market
-Tell us your state and what you sell. We map the owners in it from the live database.
-Approve the angle
-We write the outreach in your voice and positioning — nothing sends until you approve it.
-We work every reply
-Replies are answered, qualified, and pushed to your calendar link. We track replies and share the results according to the agreed campaign reporting schedule.
-Calls land on your calendar
-Booked calls, plus a weekly report: sends, replies, reply rate, and calls booked.
-Rated [X.X] out of 5 from [N] reviews on [Trustdeal / G2] — as of [Month Year].
-Start with one flight.
-Test one outreach flight for $400 before committing, or subscribe to the tier that fits. These plans target companies selling to home-care agency owners. Home-care operators seeking private-pay families should use our
-separate inquiry
-Compare the one-time Deal, monthly DFY, and DIY before paying. No client outcome is promised.
-Founding cohort — closes Monday
-00 / FOUNDING YEAR
-The Founding Year — $1,500, one time
-A full year of Done-For-You outreach at founding pricing: $1,500 paid once, upfront — the same service as the $8,000 Founding Annual, at the price the founding cohort gets for being first. Closes Monday night; when it's gone, the year is $8,000. 12 months of outreach to the licensed agency owners in your market — run for you. Every reply worked; calls booked straight onto your calendar. Full database access for your market, enriched owner data included. Weekly report: sends / replies / booked — even in a zero week. Zero-reply protection: zero positive replies in month one = full refund. No fine print.
-Claim the Founding Year — $1,500
-01 / THE DEAL
-The Deal — $400 one-time
-One full outreach flight, before any subscription. We email the licensed home care agency owners in your market, work every reply, and book calls on your calendar — you keep every reply and every booked call. The full $400 is eligible to be credited manually toward qualifying DFY started within 14 days. Zero positive replies and we run it again in another market, free. Still zero — full refund.
-Start with the Deal — $400
-Full-service option
-02 / DONE FOR YOU
-OwnerFlight DFY — $800/mo
-We run it for you. We email the licensed home care agency owners in your market, work every reply, and book calls on your calendar. You approve the angle before anything sends, we report replies on the agreed schedule, and monthly DFY clients whose first launched month yields zero positive replies receive a free second service month. DFY campaigns start with the verified owner emails in your market — the available verified owner emails in the agreed territory, confirmed during onboarding before launch. Full database access for your market, and a weekly report on every flight — sends, replies, reply rate, and calls booked.
-Want your market locked? Exclusivity is +$200/mo — nobody else we work with emails your owners. Ask when you start.
-Pay annually — $8,000/yr
-Save $1,600 versus 12 monthly payments. Annual plan is billed upfront and renews yearly.
-03 / DO IT YOURSELF
-OwnerFlight — $299/mo
-Pick any 3 states — the full file for each: owners, direct phones, and the reason each agency is worth a call. Your team runs the outreach; we keep your files fresh — weekly refresh, Hot 10 for your states every week. Add a state anytime for $75/mo, or take the whole map with All-Access — $499/mo for every live state, available through direct checkout. One honest note: emails aren’t in this tier — email is DFY’s job, and it’s kind of the point of DFY.
-DIY — 3 states, $299/mo
-All-Access — 24 states, $499/mo
-THE FOUNDING ANNUAL — DELUXE
-A year of booked owner calls. $8,000 — not $9,600.
-Monthly DFY is $800 — twelve months bought monthly is $9,600. The Founding Annual is the same service for a year at founding pricing:
-$8,000, two months free
-, billed upfront. Everything in Done-For-You, stacked:
-12 months of outreach flights to the licensed owners in your markets — run for you
-Every reply worked; calls booked straight onto your calendar
-Same-day forwarding on every positive reply
-Database access for your markets on the enriched owner data — verified emails included
-Weekly report: sends, replies, reply rate, calls booked
-The weekly Hot 10 — the ten strongest new signals in your markets
-New-license alerts in your markets, the week they file
-A quarterly written market brief on your territories
-Zero-reply protection:
-if month one produces zero positive replies, month two is on us — on top of the two free months already in the price.
-Start smaller, lose nothing:
-your $400 Deal credits toward the annual if you step up within 14 days.
-Take the Founding Annual — $8,000/yr
-Billed upfront, renews yearly. Founding cohort pricing.
-After you pay — the Deal
-Use the post-checkout onboarding link to send your market and offer. We confirm your paid order, verify available contacts for that market, and agree on campaign scope before any emails are sent. The $400 Deal credit is valid toward DFY for 14 days.
-After you pay — DIY
-After checkout, use the onboarding instructions to choose 3 states. We verify your paid order and email the available files manually; delivery is not automatic. Weekly refreshes and weekly briefs follow the stated schedule.
-After you pay — DFY
-Use the post-checkout onboarding instructions to give us your target market, offer and calendar link. We confirm available contacts and launch timing with you before sending approved outreach.
-The Deal is the test — one full flight in your market, refund-backed if it produces zero positive replies.
-Compare the three ways in
+Choose your geography. We tailor messaging to local home care agencies.
+We do the outreach
+We start conversations, follow up, and qualify interested owners.
+You take the calls
+Qualified owners get booked directly to your calendar. You handle the close.
+What We Do
+Your pipeline problem isn't your offer. It's reaching the owners.
+Home care agency owners don't sit on LinkedIn waiting for pitches. They're running caregivers, covering shifts, and answering families. OwnerFlight was built to reach them where they actually are — and to keep working the conversation until it's a booked call or a clear no.
+WhatsApp Facebook Instagram TikTok LinkedIn Email Text
+Every owner in your market, drawn from 4,572 tracked agencies across 24 states — refreshed weekly.
+Every reply worked by a person, not an autoresponder — questions answered, interest qualified.
+Calls booked on your calendar, with the owner's name, agency, and what they said — before you ever pick up the phone.
+A weekly report you can check: sends, replies, and booked calls — even in a zero week.
+Your accounts stay clean: outreach runs from our accounts, never your domain or your number.
+Pricing
+Start with the deal. Stay for the pipeline.
+The Deal proves it in your market before any subscription. These plans are for companies that sell to home care agency owners. Home care operators looking for private-pay clients: see our separate inquiry .
+First 10 clients only
 The Deal
-DFY
-DIY
-Price
-$400 one-time
-$800/mo or $8,000/yr (save $1,600)
-$299/mo
-One full outreach flight in your market — we email the owners, work every reply, and book calls on your calendar. You keep every reply and booked call.
-We run your outreach month to month: write and send it, work every reply, book calls on your calendar, plus full database access for your market.
-The base scored database, self-serve, for any 3 states you choose: agency names, phones, addresses, license numbers, Google ratings, booking and social flags, and a 0–100 priority score with the reason attached. Extra states $75/mo each — or All-Access ($499/mo) for every live state.
-Verified owner emails
-We email the owners for you — included in the flight
-Included — the enriched data (verified emails + owner-direct details) is part of DFY
-Not included — emails are DFY-only
-Reporting
-Replies reported on the agreed schedule
-Replies reported on the agreed schedule; weekly sent / replies / booked report
-Weekly Hot 10 for your states; weekly refresh of your states
-Guarantee
-Zero positive replies → a second flight in another market, free; still zero → full refund
-Zero positive replies in month 1 → month 2 free
-Cancel anytime
-Setup
-None
-No separate fee is collected by the posted checkout; any additional fee requires written approval
-Credit
-The full $400 credits toward DFY if you continue within 14 days
-—
-24 states live · 2,860 agencies tracked
-Your next client runs a home care agency. We can put you on their calendar.
-Start with the Deal — $400, one time: one full outreach flight in your market, fully credited toward DFY. Done-For-You ($800/mo): we email the owners in your market, work every reply, and book the calls. Zero positive replies in month one — month two is free. Prefer to run it yourself? The database is $299/mo for any 3 states — or $499/mo for every live state with All-Access.
-Subscribe — $299/mo
-DFY guarantee: zero positive replies in month one, month two free · Your starting rate is locked for as long as you stay subscribed · Cancel anytime
-Or start with the $400 Deal →
-Why I built this
-Built by the person who got tired of the scavenger hunt.
-Prospecting into home care used to mean a dozen open Maps tabs, one state license lookup after another, and lists that were stale before the first call — hours of hunting before a single conversation. So I built the file I couldn't buy: every licensed agency scored, every owner named, refreshed every week. OwnerFlight is that file, and the outreach service I wished had come with it.
-Jesse Santiago — founder, OwnerFlight
-Questions? Call or text
-(838) 304-3003
-or email
-jesusasantiago413@gmail.com
-Browse by metro:
-Miami
-Orlando
-Tampa
-St. Petersburg
-Statewide data brief
-Home care agency leads
-Partner with us
-Florida regions:
-South Florida
-Central Florida
-Tampa Bay
-Northeast Florida
-Live markets:
-Built by Jesse Santiago — founder, OwnerFlight.
-OwnerFlight vs Apollo & ZoomInfo
-Weekly Signals brief
-Real agency data preview
-Agency client-growth inquiries
-Existing buyer onboarding
-We book calls with home care agency owners — 24 states live
-Support:
-call or text (838) 304-3003
-Terms
-·
-Privacy
+$800 one-time
+One full outreach flight in your market. We reach every verified owner contact — WhatsApp, Facebook, Instagram, TikTok, LinkedIn, email, and text — work every reply, and book calls on your calendar. You keep every reply and every booked call. The exact owner count for your market is confirmed with you in writing before anything sends. The full $800 is credited toward DFY when you start within 14 days.
+Secure The Deal — $800
+Zero positive replies? We run a second flight in another market, free. Still zero — full refund.
+Full service
+Done-For-You
+$1,500 /month
+We run your outreach every month. You approve the angle before anything sends. Every reply worked, calls booked straight onto your calendar, full database access for your market with enriched owner data, and a weekly report: sends, replies, booked. Want your market locked? Exclusivity is +$200/mo — nobody else we work with works your owners.
+Start DFY — $1,500/mo Pay annually — $15,000/yr
+Zero positive replies in month one? Month two is free. Annual is billed upfront and renews yearly.
+DFY Plus
+$2,500 /month
+Done-For-You across two markets, with everything in DFY — plus market exclusivity included, same-day reply handling, and a monthly strategy call with a market brief on your replies, angles, and booked calls.
+Start DFY Plus — $2,500/mo
+Do-It-Yourself
+$299 /month
+Pick any 3 states — the full file for each: owners, direct phones, and the reason each agency is worth a call. Your team runs the outreach; we keep your files fresh with a weekly refresh and a weekly Hot 10 for your states. Add a state anytime for $75/mo, or take the whole map with All-Access, $499/mo. One honest note: verified owner emails aren't in this tier — they're part of DFY, where we do the outreach for you.
+DIY — 3 states, $299/mo All-Access — 24 states, $499/mo
+The Guarantee
+One promise, in plain words.
+Zero positive replies in month one? Month two is free. On the Deal, zero positive replies means we run it again in another market free — and if that lands zero too, a full refund. A positive reply is an owner showing any interest in talking. No fine print, no outcome beyond replies is promised — replies and booked calls are the product, and we stand behind them.
+Visa Franchise — Partner Pricing
+A full year of Done-For-You outreach for $1,500 — Visa Franchise partner pricing.
+Paid once, upfront (standard annual price: $15,000/yr). This $1,500 rate exists only under our Visa Franchise partner agreement, for Visa Franchise agencies — it is not a public offer and is not available to other buyers. We email the home care agency owners in your market, work every reply, and book the calls. Zero positive replies in month one? Full refund.
+Visa Franchise partners: claim your year — $1,500
+Questions
+Before you ask.
+Who is this for?
+Any business that sells to home care agency owners — software, staffing, billing, consulting, franchising, senior placement, and the agencies' own vendors. If your buyers are agency owners, this is your front door to them.
+What exactly happens after I pay?
+You tell us your market and what you sell. We confirm the exact owner count for that market in writing, draft the outreach angle for your approval, then run the flight. Replies land in real conversations; interested owners get booked on your calendar with their name, agency, and what they said.
+Which channels do you use?
+All of them: WhatsApp, Facebook, Instagram, TikTok, LinkedIn, email, and text — matched to how each owner actually responds. Outreach sends from our accounts, never your domain or your phone number.
+What counts as a positive reply?
+An owner showing any interest in talking — asking a question, asking for information, agreeing to a call. Wrong numbers, gatekeepers, and clear no's don't count, and you'll see every reply either way in your weekly report.
+Why only 10 deal spots?
+Every flight is worked by people, reply by reply. Ten deals is what we can run properly at once. When the 10 are gone, the Deal is gone — the standing way in is DFY at $1,500/mo.
+Can I see the data first?
+Yes — the sample page shows the record format, and the exact owner count for your market is confirmed in writing before anything sends.
+Your buyers are owners. We get you in front of them.
+First 10 deal spots only — when they're gone, they're gone.
+Secure The Deal — $800
+OWNERFLIGHT
+How It Works Pricing Sample Data Partners Terms Privacy
+OwnerFlight provides done-for-you outreach and a business database covering 4,572 home care agencies across 24 states. Contact: jesusasantiago413@gmail.com. No client outcome beyond replies and booked calls is promised; the guarantee above states exactly what we stand behind.
 
 ## Home Care Agency Leads (the database) — https://santi856.github.io/ownerflight/home-care-agency-leads.html
 
-Home Care Agency Leads — The Home Care Agency Database for Marketing Agencies | OwnerFlight
-OwnerFlight
-Pricing
-FAQ
-Start the $400 Deal
+Pricing FAQ Start the $800 Deal
 Home care agency leads · 24 states live
 Home care agency leads your team can actually work.
-OwnerFlight is not a scraped list. It is a database of licensed home care agencies built from Florida license records and verified one record at a time: owner names, direct phones, and license numbers where verified — plus Google ratings, booking and social signals, and a priority score with the reason attached. 24 states are live — 2,860 agencies, Florida to Colorado — and DIY includes your choice of three states ($299/month); All-Access includes all 24 states ($499/month).
-Subscribe — $299/mo
-View real data preview
+OwnerFlight is not a scraped list. It is a database of licensed home care agencies built from Florida license records and verified one record at a time: owner names, direct phones, and license numbers where verified — plus Google ratings, booking and social signals, and a priority score with the reason attached. 24 states are live — 4,572 agencies, Florida to Colorado — and DIY includes your choice of three states ($299/month); All-Access includes all 24 states ($499/month).
+Subscribe — $299/mo View real data preview
 Your rate is locked for as long as you stay subscribed.
 Cancel anytime.
-Start the $400 Deal →
-US_ownerflight
-24 states live
-102
-verified Florida records
-48
-Florida records with a verified email — the DFY contact layer
-Weekly
-Hot 10 trigger brief
-full database refresh
-Agency
-City
-Score
-Why now
-Home Instead
-Miami
-40
-4.1★ across just 19 reviews · no Instagram presence
-Nurse Pop Ins & Senior Concierge
-Altamonte Springs
-35
-No online booking · no Instagram presence
-All At Home Healthcare
-Jacksonville
-4.2★ (22 reviews) · no Instagram presence
-Sunshine Home Care Services
-Boca Raton
-30
-Only 2 Google reviews · no Instagram presence
+Start the $800 Deal →
+US_ownerflight 24 states live
+102 verified Florida records
+48 Florida records with a verified email — the DFY contact layer
+Weekly Hot 10 trigger brief
+Weekly full database refresh
+Agency City Score Why now
+Home Instead Miami 40 4.1★ across just 19 reviews · no Instagram presence
+Nurse Pop Ins & Senior Concierge Altamonte Springs 35 No online booking · no Instagram presence
+All At Home Healthcare Jacksonville 35 4.2★ (22 reviews) · no Instagram presence
+Sunshine Home Care Services Boca Raton 30 Only 2 Google reviews · no Instagram presence
 Why bought lists fail
 You have bought this list before. It did not work then either.
 The standard list-buying experience — pay per record, get a spreadsheet, start dialing — breaks in the same three places every time.
@@ -543,66 +135,40 @@ Florida records carry a verified, published email address — the contact layer 
 Inside the file
 What a workable lead file looks like.
 Every record carries the context a rep needs before the first call — who runs the agency, how to reach them, and why this one, this week.
-2,860
-verified records across 24 live states — your pick of 3 states on signup, Hot 10 every week, refreshed weekly.
+4,572 verified records across 24 live states — your pick of 3 states on signup, Hot 10 every week, refreshed weekly.
 Delivered as a clean CSV that drops into Excel, Sheets, or your CRM. DIY covers any 3 states you choose; All-Access ($499/mo) includes all 24 live states.
-01
-Agency name
-Identity
-02
-Location
-03
-Street address
-04
-Phone
-Contact
-05
-Website
-Digital
-06
-License number
-Verification
-07
-Owner / administrator
-Decision-maker
-08
-Google rating + review count
-Reputation
-09
-Instagram handle + activity
-Social
-10
-Online-booking signal
-Opportunity
-11
-Priority score
-0–100
-12
-Tier — HOT / WARM / NURTURE / COLD
-Timing
-13
-Score rationale
-Highest-priority accounts
-Live Florida file
+01 Agency name Identity
+02 City Location
+03 Street address Location
+04 Phone Contact
+05 Website Digital
+06 License number Verification
+07 Owner / administrator Decision-maker
+08 Google rating + review count Reputation
+09 Instagram handle + activity Social
+10 Online-booking signal Opportunity
+11 Priority score 0–100
+12 Tier — HOT / WARM / NURTURE / COLD Timing
+13 Score rationale Why now
+Highest-priority accounts Live Florida file
+40
 Home Instead — Miami
 4.1★ on just 19 reviews · no Instagram presence.
 Visibility gap
+35
 Nurse Pop Ins & Senior Concierge — Altamonte Springs
 No online booking · no Instagram presence.
 Conversion gap
+35
 All At Home Healthcare — Jacksonville
 4.2★ (22 reviews) · no Instagram presence.
 Social gap
 Scored on signals, not adjectives
 Every agency is scored on real, checkable signals. The reason sits next to every score, so your team can audit the ranking instead of trusting a black box.
-75 and up
-HOT
-50–74
-WARM
-25–49
-NURTURE
-Under 25
-COLD
+75 and up HOT
+50–74 WARM
+25–49 NURTURE
+Under 25 COLD
 The recipe is ours — what it produces is what you see: every score ships with its signals, last-checked date, and recommended outreach angle. Each Monday, the Hot 10 brief pulls the week's highest-priority accounts to the top of your call list.
 The math
 One client pays for this. Everything after is margin.
@@ -620,36 +186,34 @@ Break-even
 1 client
 Sign one agency from the file and the subscription is covered for the better part of a year — before the second, third, and tenth client.
 That math holds before counting the days of manual research the file replaces — the licensing-board lookups, the owner hunts, the dead-end dials. Your team's hours belong in conversations, not in building the list the conversations come from.
+Pricing
 Start with one flight.
-See it work in your market before any subscription — the Deal, $400 one time, credited toward DFY. Or go straight to the tier that fits.
-Each plan covers businesses selling to home care agency owners, not patient or family lead generation. If you operate a home care agency and want more clients,
-see the separate agency-growth inquiry
-before buying.
+See it work in your market before any subscription — the Deal, $800 one time, credited toward DFY. Or go straight to the tier that fits.
+Each plan covers businesses selling to home care agency owners, not patient or family lead generation. If you operate a home care agency and want more clients, see the separate agency-growth inquiry before buying.
 01 / THE DEAL
-The Deal — $400 one-time
-One full outreach flight, before any subscription. We email the licensed home care agency owners in your market, work every reply, and book calls on your calendar — you keep every reply and every booked call. The full $400 credits toward DFY if you continue within 14 days. Zero positive replies and we run it again in another market, free. Still zero — full refund.
-Start with the Deal — $400
+The Deal — $800 one-time
+One full outreach flight, before any subscription. We email the licensed home care agency owners in your market, work every reply, and book calls on your calendar — you keep every reply and every booked call. The full $800 credits toward DFY if you continue within 14 days. Zero positive replies and we run it again in another market, free. Still zero — full refund.
+Start with the Deal — $800
 02 / DONE FOR YOU
-OwnerFlight DFY — $800/mo
+OwnerFlight DFY — $1,500/mo
 We run it for you. We email the licensed home care agency owners in your market, work every reply, and book calls on your calendar. You approve the angle before anything sends, reply handling follows our agreed service schedule, with a free second service month for monthly clients whose first launched campaign month generates zero positive replies. DFY campaigns start with the verified owner emails in your market — the available verified owner-email inventory for your target market, confirmed before launch. Full database access included, weekly sent / replies / booked report.
 Want your market locked? Exclusivity is +$200/mo — nobody else we work with emails your owners. Ask when you start.
-Start DFY — $800/mo
-DFY annually — $8,000/yr, renews yearly
+Start DFY — $1,500/mo DFY annually — $15,000/yr, renews yearly
 03 / DO IT YOURSELF
 OwnerFlight — $299/mo
 Pick any 3 states — the full file for each: owners, direct phones, and the reason each agency is worth a call. Your team runs the outreach; we keep your files fresh — weekly refresh, Hot 10 for your states every week. Add a state anytime for $75/mo, or take the whole map with All-Access — $499/mo for every live state; subscribe directly through Stripe. One honest note: emails aren’t in this tier — email is DFY’s job, and it’s kind of the point of DFY.
-DIY — $299/mo (3 states)
-All-Access — $499/mo (24 states)
+DIY — $299/mo (3 states) All-Access — $499/mo (24 states)
 After you pay — the Deal
 After checkout, send your market and booking details through the onboarding page. We verify the payment, confirm market inventory and request your approval before the flight goes out. Deal credits are applied manually to qualifying DFY within 14 days.
 After you pay — DIY
 After checkout, select three states through the onboarding page. We verify payment and email your files manually, then send scheduled weekly research briefs and weekly refreshed files. Contact us to stop future renewals.
 After you pay — DFY
 Use the onboarding page to share your target geography, offer and booking link. After we verify payment, we agree on available contact inventory and campaign scope, then you approve the outreach before launch.
-One full outreach flight in your market — first 10 only, refund-backed. Zero positive replies and we run it again free; still zero and the $400 is refunded in full.
+Start the $800 Deal One full outreach flight in your market — first 10 only, refund-backed. Zero positive replies and we run it again free; still zero and the $800 is refunded in full.
+FAQ
 Straight answers, before you subscribe.
 Where can I buy a list of home care agencies?
-OwnerFlight is a subscription database of licensed home care agencies, built for marketing agencies: 2,860 verified records across 24 live states — owner names, direct phones, and license numbers where verified, plus ratings, booking and social signals, and a priority score on every record. It is $299/month, and the $400 Deal proves it in your market before you subscribe. Twenty-four states are live — 2,860 agencies, Florida to Colorado — and DIY includes your choice of three states ($299/month); All-Access includes all 24 states ($499/month) with no hidden per-record fees.
+OwnerFlight is a subscription database of licensed home care agencies, built for marketing agencies: 4,572 verified records across 24 live states — owner names, direct phones, and license numbers where verified, plus ratings, booking and social signals, and a priority score on every record. It is $299/month, and the $800 Deal proves it in your market before you subscribe. Twenty-four states are live — 4,572 agencies, Florida to Colorado — and DIY includes your choice of three states ($299/month); All-Access includes all 24 states ($499/month) with no hidden per-record fees.
 Are these leads exclusive to my agency?
 No — and we would rather say that plainly. OwnerFlight is a shared subscription database: every member works from the same verified file. What members compete on is speed and follow-up, and the weekly Hot 10 and its timing signals are built to give you that edge. If a vendor promises exclusive leads at this price, ask how many times they have sold them.
 What information comes with each agency?
@@ -657,42 +221,28 @@ Thirteen core fields: agency name, city, street address, phone, website, state l
 How fresh is the data?
 The Florida file was verified record by record in October 2026, against state license records and each agency's live web presence. The full database is re-verified and refreshed every week, and the Hot 10 brief goes out every Monday with the highest-priority accounts and what changed.
 Which states are covered?
-Twenty-four states are live — 2,860 agencies, Florida to Colorado — and DIY includes your choice of three states ($299/month); All-Access includes all 24 states ($499/month). Whatever rate you start at is yours for as long as you stay subscribed.
+Twenty-four states are live — 4,572 agencies, Florida to Colorado — and DIY includes your choice of three states ($299/month); All-Access includes all 24 states ($499/month). Whatever rate you start at is yours for as long as you stay subscribed.
+24 states live
 Stop buying lists. Start working a market.
-After checkout, complete the
-manual onboarding
-so we can confirm paid orders and delivery scope. Start with the Deal — $400 one time, one full outreach flight in your market, credited toward DFY. Or get the database today for $299/mo — your choice of 3 states, full scored files, priority scores, and the weekly Hot 10. Or take all 24 live states with All-Access at $499/mo through direct Stripe checkout. Or hand us the outreach: DFY is $800/mo and we book the calls.
-Your rate is locked for as long as you stay subscribed · Cancel anytime · Any 3 states included · All-Access (every live state) $499/mo
-Or start with the $400 Deal →
-Keep exploring:
-OwnerFlight — the database
-Statewide data brief
-Florida regions:
-South Florida
-Central Florida
-Tampa Bay
-Northeast Florida
-Built by Jesse Santiago — founder, OwnerFlight.
-The home care agency database for marketers — Florida live now
-Terms
-·
-Privacy
+After checkout, complete the manual onboarding so we can confirm paid orders and delivery scope. Start with the Deal — $800 one time, one full outreach flight in your market, credited toward DFY. Or get the database today for $299/mo — your choice of 3 states, full scored files, priority scores, and the weekly Hot 10. Or take all 24 live states with All-Access at $499/mo through direct Stripe checkout. Or hand us the outreach: DFY is $1,500/mo and we book the calls.
+Subscribe — $299/mo Your rate is locked for as long as you stay subscribed · Cancel anytime · Any 3 states included · All-Access (every live state) $499/mo
+Or start with the $800 Deal →
+Keep exploring: OwnerFlight — the database Statewide data brief
+Florida regions: South Florida Central Florida Tampa Bay Northeast Florida
+OwnerFlight Built by Jesse Santiago — founder, OwnerFlight. The home care agency database for marketers — Florida live now Terms · Privacy
 
 ## OwnerFlight vs Apollo and ZoomInfo — https://santi856.github.io/ownerflight/vs.html
 
-OwnerFlight vs Apollo and ZoomInfo — Home Care Agency Prospecting
-OwnerFlight
-Pricing
-FAQ
-Start the $400 Deal
+Pricing FAQ Start the $800 Deal
 Comparison · Home care prospecting
 OwnerFlight vs Apollo and ZoomInfo.
 Broad B2B platforms are built to cover every industry. OwnerFlight is built around one vertical — and it shows in what each record carries, what it costs, and whether anyone runs the outreach for you. Here is the side-by-side, using only what each product actually publishes.
 Side by side
 One vertical, worked end to end — or every industry, worked by you.
+OwnerFlight
 Apollo / ZoomInfo
 Coverage
-One vertical: 2,860 licensed home care agencies across 24 live states, every state count published
+One vertical: 4,572 licensed home care agencies across 24 live states, every state count published
 Every industry, worldwide — home care is one filter among thousands
 License numbers
 State license number on the record, where published — blank when it can't be verified, never estimated
@@ -701,89 +251,61 @@ Senior-care signals
 Online-booking gaps, Instagram presence and activity, Google rating and review counts, and a 0–100 priority score with the plain-English reason on every row
 Generic firmographic and technographic data; senior-care prospecting signals like booking gaps are not the product
 Verified owner emails
-399 verified owner emails across the 24 live states — part of Done-For-You, where we send the outreach for you
+Verified owner emails across the 24 live states — part of Done-For-You, where we send the outreach for you
 Emails sold as data credits/seats; you still write, send, and work every reply yourself
 Who runs the outreach
-On DFY ($800/mo), we do: we email the owners in your market, work every reply, and book calls on your calendar. The Deal ($400 one-time) proves it in one flight first.
+On DFY ($1,500/mo), we do: we email the owners in your market, work every reply, and book calls on your calendar. The Deal ($800 one-time) proves it in one flight first.
 Nobody — it's a database and a sending tool. The prospecting labor is yours.
-Published flat prices with Stripe checkout on this site: The Deal $400 one-time, DFY $800/mo, DIY database $299/mo (any 3 states), All-Access $499/mo (every live state). No per-record charge, cancel anytime, your starting rate is locked.
+Pricing
+Published flat prices with Stripe checkout on this site: The Deal $800 one-time, DFY $1,500/mo, DIY database $299/mo (any 3 states), All-Access $499/mo (every live state). No per-record charge, cancel anytime, your starting rate is locked.
 Per-seat contracts, typically quote-only — talk to sales before you see a number
 Freshness
-Full file re-verified and refreshed weekly; Hot 10 trigger brief every Monday (new licenses, rating changes, socials going quiet)
+Full file re-verified and refreshed monthly; Hot 10 trigger brief every Monday (new licenses, rating changes, socials going quiet)
 Refresh cadence varies by plan and dataset
 See it before paying
-$400 Deal — one full outreach flight in your market, refund-backed, before any subscription
+$800 Deal — one full outreach flight in your market, refund-backed, before any subscription
 Trials and demos vary; samples are usually gated behind a sales conversation
 Guarantee
 The Deal: zero positive replies and we run it again free — still zero, full refund. DFY: zero positive replies in month one, month two is free.
 Data guarantees vary by contract
 If you sell to every industry, a broad platform makes sense. If home care agencies are your market, a vertical file with the outreach run for you is the shorter path to a booked call.
+FAQ
 The comparison questions, answered straight.
 How is OwnerFlight different from Apollo or ZoomInfo?
-Broad B2B platforms are built to cover every industry. OwnerFlight is built around one vertical — 2,860 licensed home care agencies across 24 live states — and includes license numbers plus senior-care-specific prospecting signals, such as visible Instagram activity and online-booking gaps, that broad databases typically do not carry.
+Broad B2B platforms are built to cover every industry. OwnerFlight is built around one vertical — 4,572 licensed home care agencies across 24 live states — and includes license numbers plus senior-care-specific prospecting signals, such as visible Instagram activity and online-booking gaps, that broad databases typically do not carry.
 How does the pricing compare?
-OwnerFlight publishes flat prices with self-serve Stripe checkout: a $400 one-time The Deal, Done-For-You at $800/mo, and the DIY database at $299/mo (any 3 states), plus All-Access — every live state — at $499/mo. Apollo and ZoomInfo sell per-seat contracts, typically quote-only.
+OwnerFlight publishes flat prices with self-serve Stripe checkout: a $800 one-time The Deal, Done-For-You at $1,500/mo, and the DIY database at $299/mo (any 3 states), plus All-Access — every live state — at $499/mo. Apollo and ZoomInfo sell per-seat contracts, typically quote-only.
 Which one has verified home care owner emails?
-OwnerFlight's Done-For-You tier works from 399 verified owner emails across the 24 live states, and we run the outreach for you. Verified owner emails are DFY-only; the DIY database is owners, phones, licenses, and scores.
+OwnerFlight's Done-For-You tier works from verified owner emails across the 24 live states, and we run the outreach for you. Verified owner emails are DFY-only; the DIY database is owners, phones, licenses, and scores.
 Can I see the data before paying?
-Yes — Start with the $400 Deal — one full outreach flight in your market, refund-backed if it produces zero positive replies.
-Start the Deal →
-24 states live · 2,860 agencies tracked
+Yes — Start with the $800 Deal — one full outreach flight in your market, refund-backed if it produces zero positive replies. Start the Deal →
+24 states live · 4,572 agencies tracked
 Start with one flight.
-The Deal — $400, one time: one full outreach flight in your market, fully credited toward DFY. Done-For-You ($800/mo): we email the owners, work every reply, and book the calls. Prefer to run it yourself? The database is $299/mo for any 3 states — or $499/mo for every live state with All-Access.
-See pricing
-The Deal guarantee: zero positive replies — we run it again free, still zero, full refund · DFY: zero positive replies in month one, month two free · Cancel anytime
-Built by Jesse Santiago — founder, OwnerFlight.
-Why I built this
-We book calls with home care agency owners — 24 states live
-Support:
-call or text (838) 304-3003
-Terms
-·
-Privacy
+The Deal — $800, one time: one full outreach flight in your market, fully credited toward DFY. Done-For-You ($1,500/mo): we email the owners, work every reply, and book the calls. Prefer to run it yourself? The database is $299/mo for any 3 states — or $499/mo for every live state with All-Access.
+Start the $800 Deal See pricing The Deal guarantee: zero positive replies — we run it again free, still zero, full refund · DFY: zero positive replies in month one, month two free · Cancel anytime
+OwnerFlight Built by Jesse Santiago — founder, OwnerFlight. Why I built this We book calls with home care agency owners — 24 states live Support: call or text (838) 304-3003 Terms · Privacy
 
 ## Partner Program — https://santi856.github.io/ownerflight/partners.html
 
-Partner with OwnerFlight — Earn Recurring Commissions | OwnerFlight
 OwnerFlight partner program
 Your audience sells to home care. We have their prospect data.
-Your audience sells to home care. We track 2,860 agencies across 24 live states — and we pay you for every subscription you send us, for as long as they stay:
-25% on DFY clients — $200 a month each — and 10% on DIY subs, $29.90 a month each.
-One DFY client you refer pays you more than most affiliate programs pay in a year. Partners get two things nobody else can hand their audience: exclusive market data worth publishing, and a commission that keeps paying.
+Your audience sells to home care. We track 4,572 agencies across 24 live states — and we pay you for every subscription you send us, for as long as they stay: 25% on DFY clients — $375 a month each — and 10% on DIY subs, $29.90 a month each. One DFY client you refer pays you more than most affiliate programs pay in a year. Partners get two things nobody else can hand their audience: exclusive market data worth publishing, and a commission that keeps paying.
 Start a partnership
 10% on DIY · 25% on DFY — for the life of the subscription.
 No cost to join.
 See the data your audience gets — the 2026 Florida data brief →
-Partner_economics
-Program open
-10–25%
-recurring commission — 10% on DIY subs, 25% on DFY clients
-$29.90/mo
-per DIY subscriber on the $299/mo plan (10%)
-$200/mo
-per DFY client on the $800/mo plan (25%)
-$500 bonus
-one-time, at your 5th paying referral — DIY and DFY count together
-$1,500 bonus
-one-time, at your 10th paying referral
-Monthly
-payouts via Stripe once your balance passes $100
-Referred subscribers
-Plan
-Each
-You earn
-5 subscribers
-$299/mo
-$29.90
-$149.50 every month
-10 subscribers
-$299.00 every month
-2 subscribers
-DFY
-$200
-$400 every month
-Your gift to hand them:
-anyone who signs up through you gets the $250 DFY setup fee waived. Lead with that — the bonuses take care of themselves.
+Partner_economics Program open
+10–25% recurring commission — 10% on DIY subs, 25% on DFY clients
+$29.90/mo per DIY subscriber on the $299/mo plan (10%)
+$375/mo per DFY client on the $1,500/mo plan (25%)
+$500 bonus one-time, at your 5th paying referral — DIY and DFY count together
+$1,500 bonus one-time, at your 10th paying referral
+Monthly payouts via Stripe once your balance passes $100
+Referred subscribers Plan Each You earn
+5 subscribers $299/mo $29.90 $149.50 every month
+10 subscribers $299/mo $29.90 $299.00 every month
+2 subscribers DFY $375 $750 every month
+Your gift to hand them: anyone who signs up through you gets the $250 DFY setup fee waived. Lead with that — the bonuses take care of themselves.
 Who this is built for
 Three kinds of partners. One unfair advantage: the data.
 If your customers, members, or readers make money selling to home care agencies — or you sell to the agencies yourself — OwnerFlight gives you content worth publishing and a commission worth collecting.
@@ -798,22 +320,21 @@ Associations & publishers
 Your members and readers need market intelligence, not another vendor pitch. We supply exclusive, citable findings from the live file — and a member offer that pays you back on every signup.
 The data behind it
 Numbers your audience cannot get anywhere else.
-Every figure here comes straight from the live database — 2,860 licensed agencies across 24 states, verified one record at a time. This is the content partners publish: real market intelligence, not list-broker claims. Illustrative earnings above assume referred subscribers stay active; commissions are paid on payments actually received.
+Every figure here comes straight from the live database — 4,572 licensed agencies across 24 states, verified one record at a time. This is the content partners publish: real market intelligence, not list-broker claims. Illustrative earnings above assume referred subscribers stay active; commissions are paid on payments actually received.
 Online booking
-71 of 1,179
-agencies with a verified booking status offer any online booking, across the 24 live states. The other 1,108 verified are phone-only in markets where families shop online first. We publish only what we've checked — the denominator is always printed.
+73 of 1,161
+agencies with a verified booking status offer any online booking, across the 24 live states. The other 1,088 verified are phone-only in markets where families shop online first. We publish only what we've checked — the denominator is always printed.
 Instagram
-1,768 of 1,808
-checked agencies have no findable Instagram presence at all. Only 40 publish a findable handle, across the 19 states where social presence has been assessed.
+49 of 4,572
+records in the file publish a findable Instagram handle. The rest carry no findable handle in our research — no public social presence for families to check before they call. That invisibility is a fixable, sellable gap.
 Reviews
 Median: 11
-Google reviews for the typical rated agency, across 1,125 rated records. Reputation volume is thin almost everywhere — a fixable, sellable gap.
+Google reviews for the typical rated agency, across 1,164 rated records. Reputation volume is thin almost everywhere — a fixable, sellable gap.
 Coverage
-2,860
+4,572
 agencies tracked across 24 live states — DIY subscribers pick any 3 states, All-Access covers every state, and every finding is publishable by partners.
 Where it started — Florida: 104 agencies, verified record by record. 99 of 102 have no findable Instagram; 19 of the 32 agencies with a verified booking status offer online booking; 48 carry a verified, published email address; the median rated agency has 10 Google reviews. The full Florida breakdown is published in the data brief.
-The full breakdown — regions, metros, and the methodology behind the scores — is published in the open:
-read the 2026 Florida data brief →
+The full breakdown — regions, metros, and the methodology behind the scores — is published in the open: read the 2026 Florida data brief →
 How it works
 Three steps. No integration project, no cookie arguments.
 Tracking is deliberately simple: a personal partner code, logged in our subscriber registry at signup. If a signup names your code, it is yours — permanently, and auditable any time you ask.
@@ -822,10 +343,10 @@ Get your partner code
 Email us and tell us about your audience. We issue your personal code and walk you through the file, so you only promote what you have actually seen.
 02
 Share the data or the offer
-Publish the market findings, share the $400 Deal, host a session, or link the database — always with your code attached and your commission disclosed.
+Publish the market findings, share the $800 Deal, host a session, or link the database — always with your code attached and your commission disclosed.
 03
 Earn every month, for life
-Commissions tally monthly and pay out via Stripe once your balance passes $100 — 10% on DIY subscriptions ($29.90/mo each), 25% on DFY clients ($200/mo each) — and keep paying for as long as each subscriber stays subscribed.
+Commissions tally monthly and pay out via Stripe once your balance passes $100 — 10% on DIY subscriptions ($29.90/mo each), 25% on DFY clients ($375/mo each) — and keep paying for as long as each subscriber stays subscribed.
 Partner conduct
 Simple rules, enforced.
 The whole product is trust in data. Partners protect that — and their commission — by following three rules. The full terms arrive with your partner code, before you promote anything.
@@ -841,127 +362,58 @@ No purchased lists, no mass unsolicited outreach, no posting your code where you
 Partner program open
 Put your audience on the data. Get paid every month they stay.
 All 24 states are live today — and every new state we verify is fresh content for your audience and fresh inventory for your commission.
-10% on DIY · 25% on DFY · Recurring for the life of the subscription · Paid monthly via Stripe · No cost to join
-Explore the database itself →
-·
-Read the data brief →
-Email us at
-jesusasantiago413@gmail.com
-— tell us about your audience. Or send them the
-$400 Deal
-first and let the data open the conversation.
-Keep exploring:
-OwnerFlight — the database
-Statewide data brief
-Home care agency leads
-Florida regions:
-South Florida
-Central Florida
-Tampa Bay
-Northeast Florida
-OwnerFlight
-Built by Jesse Santiago — founder, OwnerFlight.
-We book calls with home care agency owners — 24 states live
-Support:
-call or text (838) 304-3003
-Terms
-Privacy
+Start a partnership 10% on DIY · 25% on DFY · Recurring for the life of the subscription · Paid monthly via Stripe · No cost to join
+Explore the database itself → · Read the data brief →
+Email us at jesusasantiago413@gmail.com — tell us about your audience. Or send them the $800 Deal first and let the data open the conversation.
+Keep exploring: OwnerFlight — the database Statewide data brief Home care agency leads
+Florida regions: South Florida Central Florida Tampa Bay Northeast Florida
+OwnerFlight Built by Jesse Santiago — founder, OwnerFlight. We book calls with home care agency owners — 24 states live Support: call or text (838) 304-3003 Terms · Privacy
 
 ## Agency Growth (for agencies seeking private-pay clients) — https://santi856.github.io/ownerflight/agency-growth.html
 
-For home care agency owners | OwnerFlight
-OwnerFlight
-For vendors selling to agencies
-For agency owners
-Existing buyers
+For vendors selling to agencies For agency owners Existing buyers
 For home care agency owners
 Looking for more private-pay clients?
-You're in the right industry, but the wrong checkout if you saw our $299 database or $800 vendor-outreach plan. Those products help
-companies sell to home care agencies
-, not home care agencies find families.
-We can discuss a separate referral-source outreach campaign in your local market, subject to data availability, service fit and a written scope. This is an
-inquiry
-, not a paid plan with guaranteed patient referrals.
+You're in the right industry, but the wrong checkout if you saw our $299 database or $1,500 vendor-outreach plan. Those products help companies sell to home care agencies , not home care agencies find families.
+For agency owners
+We can discuss a separate referral-source outreach campaign in your local market, subject to data availability, service fit and a written scope. This is an inquiry , not a paid plan with guaranteed patient referrals.
 Ask about a local campaign
 No payment is requested on this page. We first check your metro, target referral relationships and what can actually be delivered.
 For vendors and consultants
-If you sell billing, software, staffing, marketing, franchise services or another product
-to agency owners
-, OwnerFlight's owner database, research brief and done-for-you outreach are the relevant products.
+If you sell billing, software, staffing, marketing, franchise services or another product to agency owners , OwnerFlight's owner database, research brief and done-for-you outreach are the relevant products.
 Compare vendor plans
 DIY is three states for $299/month. All-Access covers all 24 states for $499/month. DFY is outreach to agency owners, not patient acquisition.
-Before any outreach:
-scope, geography, lawful marketing channels, list availability, approvals, timing and reporting must be agreed in writing. No patient-identifiable health information should be emailed to us. No medical or placement outcomes are guaranteed.
-OwnerFlight ·
-jesusasantiago413@gmail.com
-·
-Terms
-Privacy
+Before any outreach: scope, geography, lawful marketing channels, list availability, approvals, timing and reporting must be agreed in writing. No patient-identifiable health information should be emailed to us. No medical or placement outcomes are guaranteed.
+OwnerFlight · jesusasantiago413@gmail.com · Terms · Privacy
 
 ## Florida Home Care 2026 Data Brief — https://santi856.github.io/ownerflight/brief.html
 
-The State of Florida Home Care — 2026 Data Brief | OwnerFlight
-OwnerFlight
 ← The database
 2026 Data Brief · Florida
 The State of Florida Home Care, in numbers.
 We analyzed 102 licensed Florida home care agencies — their websites, booking paths, social presence, and Google profiles. The headline: this is a large, licensed, paying market that is almost completely invisible online.
 Data collected & verified October 2026 · OwnerFlight research
-19 / 32
-verified agencies offer any online booking
-Booking status is verified agency by agency against each agency's own site. Of the 32 verified so far, 19 offer online booking and 13 are phone-only. The rest are still being verified — we publish only what we've checked.
-99 / 102
-have no findable Instagram presence
-Just 3 agencies in the entire dataset have an Instagram profile we could find. The channel families actually browse is essentially empty.
-10
-median Google reviews per rated agency
-Ratings average a strong 4.8★ — but on a median of 10 reviews, one unhappy family moves the number. High ratings, thin proof.
-102
-licensed agencies, verified one by one
-Built from Florida license records, cross-checked against each agency's live web presence. Unverifiable fields are left blank — never estimated.
+19 / 32 verified agencies offer any online booking Booking status is verified agency by agency against each agency's own site. Of the 32 verified so far, 19 offer online booking and 13 are phone-only. The rest are still being verified — we publish only what we've checked.
+99 / 102 have no findable Instagram presence Just 3 agencies in the entire dataset have an Instagram profile we could find. The channel families actually browse is essentially empty.
+10 median Google reviews per rated agency Ratings average a strong 4.8★ — but on a median of 10 reviews, one unhappy family moves the number. High ratings, thin proof.
+102 licensed agencies, verified one by one Built from Florida license records, cross-checked against each agency's live web presence. Unverifiable fields are left blank — never estimated.
 Where the agencies are
 The dataset concentrates in Florida's major metros — the same metros where private-pay demand and agency competition are highest:
-Jacksonville · 14
-Miami · 13
-Orlando · 8
-Tampa · 7
-Altamonte Springs · 7
-St. Petersburg · 6
-Kissimmee · 5
-Orange Park · 5
+Jacksonville · 14 Miami · 13 Orlando · 8 Tampa · 7 Altamonte Springs · 7 St. Petersburg · 6 Kissimmee · 5 Orange Park · 5
 What this means if you sell marketing to home care agencies
 The booking gap is a web & intake pitch, pre-written
-13 of the 32 agencies verified so far
-can't take a booking or consultation request online. Every one is flagged individually in the database — that's not a cold list, it's 13 warm reasons to call, with more verifying every week.
+13 of the 32 agencies verified so far can't take a booking or consultation request online. Every one is flagged individually in the database — that's not a cold list, it's 13 warm reasons to call, with more verifying every week.
 Social silence is a content pitch with no competition
-When
-97% of a market has no Instagram presence
-, the first agency in each city that shows up consistently owns the feed by default. The database flags exactly who is dark.
+When 97% of a market has no Instagram presence , the first agency in each city that shows up consistently owns the feed by default. The database flags exactly who is dark.
 Thin reviews are a reputation pitch with urgency built in
 A 4.8★ average on a median of 10 reviews is a number one bad month can wreck. Agencies know it, even if they haven't fixed it — the database carries rating and review count on every record so the conversation starts specific.
-Start the $400 Deal
-Subscribe — $299/mo
-One full outreach flight in your market — first 10 only, refund-backed. Zero positive replies and we run it again free; still zero and the $400 is refunded in full.
+Start the $800 Deal Subscribe — $299/mo One full outreach flight in your market — first 10 only, refund-backed. Zero positive replies and we run it again free; still zero and the $800 is refunded in full.
 Methodology
 This brief is drawn from the OwnerFlight Florida database (October 2026): licensed home care agencies identified from Florida license records and cross-checked against each agency's public website, Google Business profile, and social presence. Online-booking and Instagram figures reflect what could be found on each agency's public web presence at verification time; records that could not be verified were left blank rather than estimated. The full database — owner/administrator names, phones, license numbers, ratings, booking and social signals, and a 0–100 priority score with a plain-English reason per record — is refreshed weekly, with a weekly Hot 10 of the agencies showing the freshest buying triggers. Florida was the first market. Twenty-three more states are live now.
 Want the rows behind these numbers?
-Florida was the first market. Twenty-three more states are live now — 2,860 agencies in all. The proof step is the $400 Deal: one full outreach flight in your market — zero positive replies and we run it again free; still zero and the $400 is refunded in full.
-See the full database — 24 states live
-Publishing data like this? Partners earn recurring commission — 10% on DIY subscriptions, 25% on DFY clients — for the life of every subscription they refer.
-See the partner page →
-Browse by metro:
-Jacksonville
-Miami
-Orlando
-Tampa
-St. Petersburg
-The database
-Florida regions:
-South Florida
-Central Florida
-Tampa Bay
-Northeast Florida
-The home care agency database for marketers — Florida live now
-Terms
-·
-Privacy
+Florida was the first market. Twenty-three more states are live now — 4,572 agencies in all. The proof step is the $800 Deal: one full outreach flight in your market — zero positive replies and we run it again free; still zero and the $800 is refunded in full.
+Start the $800 Deal See the full database — 24 states live
+Publishing data like this? Partners earn recurring commission — 10% on DIY subscriptions, 25% on DFY clients — for the life of every subscription they refer. See the partner page →
+Browse by metro: Jacksonville Miami Orlando Tampa St. Petersburg The database
+Florida regions: South Florida Central Florida Tampa Bay Northeast Florida
+OwnerFlight The home care agency database for marketers — Florida live now Terms · Privacy
