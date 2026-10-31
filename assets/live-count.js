@@ -4,13 +4,13 @@
    count in visible text. Fails silently: if the fetch fails or the payload
    is malformed, the baked number stays exactly as published.
 
-   FALLBACK TOKEN: "10,326" below is the baked site number. When the baked
+   FALLBACK TOKEN: "10,380" below is the baked site number. When the baked
    site number changes, update FALLBACK_AGENCY_COUNT here to match, and keep
    FALLBACK_STATE_COUNT in sync with the baked state count. */
 (function () {
   "use strict";
 
-  var FALLBACK_AGENCY_COUNT = "10,326";
+  var FALLBACK_AGENCY_COUNT = "10,380";
   var FALLBACK_STATE_COUNT = "24";
 
   function format(n) {
