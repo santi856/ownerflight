@@ -4,13 +4,13 @@
    count in visible text. Fails silently: if the fetch fails or the payload
    is malformed, the baked number stays exactly as published.
 
-   FALLBACK TOKEN: "8,507" below is the baked site number. When the baked
+   FALLBACK TOKEN: "8,547" below is the baked site number. When the baked
    site number changes, update FALLBACK_AGENCY_COUNT here to match, and keep
    FALLBACK_STATE_COUNT in sync with the baked state count. */
 (function () {
   "use strict";
 
-  var FALLBACK_AGENCY_COUNT = "8,507";
+  var FALLBACK_AGENCY_COUNT = "8,547";
   var FALLBACK_STATE_COUNT = "24";
 
   function format(n) {
@@ -35,7 +35,7 @@
 
     // Text-node replacement: swap just the number portion of the baked
     // token wherever it appears in visible text, including inside strings
-    // like "8,507-record" or "8,507 agencies". Attributes, <script> and
+    // like "8,547-record" or "8,547 agencies". Attributes, <script> and
     // <style> content are not touched.
     var walker = document.createTreeWalker(
       document.body,
