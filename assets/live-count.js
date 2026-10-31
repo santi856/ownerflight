@@ -10,7 +10,7 @@
 (function () {
   "use strict";
 
-  var FALLBACK_AGENCY_COUNT = "11,187";
+  var FALLBACK_AGENCY_COUNT = "11,239";
   var FALLBACK_STATE_COUNT = "24";
 
   function format(n) {
