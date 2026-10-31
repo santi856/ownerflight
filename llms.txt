@@ -1,11 +1,11 @@
 # OwnerFlight
 
 
-OwnerFlight books calls with home care agency owners for businesses that sell into home care — done-for-you outreach backed by a scored database of 11,029 agencies across 24 live states (The Deal $800 one-time, DFY $1,500/mo, DIY database $299/mo for any 3 states, All-Access $499/mo for every live state, DFY annual prepaid $15,000/year).
+OwnerFlight books calls with home care agency owners for businesses that sell into home care — done-for-you outreach backed by a scored database of 11,080 agencies across 24 live states (The Deal $800 one-time, DFY $1,500/mo, DIY database $299/mo for any 3 states, All-Access $499/mo for every live state, DFY annual prepaid $15,000/year).
 
 
 ## Main pages
-- [Real data preview](https://santi856.github.io/ownerflight/sample.html): 25 actual business rows (agency, city, state, tier) from the live 11,029-record, 24-state file. Zero current HOT-tier records.
+- [Real data preview](https://santi856.github.io/ownerflight/sample.html): 25 actual business rows (agency, city, state, tier) from the live 11,080-record, 24-state file. Zero current HOT-tier records.
 - [OwnerFlight](https://santi856.github.io/ownerflight/): done-for-you outreach + the home care agency database
 - [Home care agency leads](https://santi856.github.io/ownerflight/home-care-agency-leads.html): the database for teams that run their own outreach
 - [Signals weekly research](https://santi856.github.io/ownerflight/signals.html): $199/month research brief for businesses selling into home care
